@@ -4,6 +4,7 @@
  * Date: 10/05/2020
  * PHP Version 7.4
 */
+//Declaração
 declare(strict_types=1);
 //connection
 $pdo = null;
